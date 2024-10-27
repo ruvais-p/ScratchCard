@@ -89,4 +89,4 @@ Create a ScratchCardProvider class that extends ChangeNotifier.
 Use Provider.of<ScratchCardProvider>(context) to access the provider in your widgets.
 
 ## Video Demo
-(Insert a link to a video demo of the application here)
+   (https://github.com/ruvais-p/ScratchCard/blob/main/Screen%20Recording%202024-10-27%20112651.mp4)
